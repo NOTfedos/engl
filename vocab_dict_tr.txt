@@ -27,16 +27,16 @@ To be released; быть выпущенным
 A study, a survey; Исследование, опрос
 Entrepreneur; Предприниматель
 I jumped at the chance; я воспользовался случаем
-To crank out; Массовое производство
-Assembly lines; Линия сборки, конвеер
-Promising (presentation, person); многообещающий
-To skip (information);  Пропустить 
+To crank out; Массово выпускать
+Assembly lines; конвейер
+Promising; многообещающий
+To skip (information);  Пропустить (информацию)
 Bulky; Громоздкий
-To go through the numbers; Проанализировать 
+To go through the numbers; пройтись по числам
 A startling finding; Потрясающее открытие 
 It works the opposite; Работает наоборот
 To triple the amount of money; Утроить количество денег
-To redefine sth; Переопределять что-то
+To redefine smt; Переопределять что-то
 Stem cells; Стволовые клетки
 To head a team; Возглавлять команду
 To pursue a goal; Преследовать цели
@@ -45,7 +45,7 @@ To pose ethical questions; Ставить этические вопросы
 Science races ahead; Наука мчиться вперед
 In an instant; В одно мгновение 
 To come up with an interim solution; Придумать промежуточное решение
-To produce real- time translation; Переводить в реальном времени
+To produce real-time translation; Переводить в реальном времени
 To be default; Быть по умолчанию
 To maintain eye contact; Поддерживать зрительный контакт
 To be panned for subpar design; Быть раскритикованным за низкокачественный дизайн
@@ -53,16 +53,16 @@ Clunky hardware; Громоздкая аппаратура
 The prospect of quantum computers; Перспектива квантовых компьютеров
 To come with a puzzle; Сопровождаться загадкой
 An enticing possibility; Заманчивая возможность 
-To run into complexities far beyond the capability of sth; Столкнуться с трудностями, выходящими за рамки возможностей чего-либо
-A clip- on/ hand- held mike; Петелька (прикрепленный микрофон)
+To run into complexities far beyond the capability of smt; Столкнуться с трудностями, выходящими за рамки возможностей чего-либо
+A clip-on/ hand-held mike; петелька/ ручной микрофон
 Bear with me a minute; Потерпите минутку
 I'm a bag of nerves; я очень взволнован
-I've lost my place/train of thoughts; Я теряюсь в своих мыслях 
+I've lost my place/train of thoughts; Я потерял ход своих мыслей
 A fuzzy/smudged image; Нечеткое изображение 
 To make a picture sharper; Сделать картинку четче
 To be stuck in recession; Застрять в упадке
 To work over time; Работать сверхурочно
-To have tight deadlines; Иметь жесткий дедлайн
+To have tight deadlines; Иметь жесткие дедлайны
 To earn a decent salary; Зарабатывать прилично
 To have a lot on one's plate; Иметь плотный график
 To have a few scraps with smb; Повздорить (с кем то поругаться)
@@ -76,11 +76,11 @@ To fasten seatbelts/straps; Пристегнуть ремни безопасно
 For safety reasons; По соображениям безопасности
 Throughout the flight; На протяжение всего полета
 Seats are in the upright position; Сиденья в вертикальном положении
-Take off/ land; Взлететь / приземлиться 
+Take off/ land; Взлететь/ приземлиться
 Emergency exits on an aircraft; Аварийные выходы на самолете
-To inflate a life jacket; Надеть жилет безопасности
+To inflate a life jacket; надуть жилет безопасности
 Cabin crew; экипаж самолета
-A direct/connecting/long-haul flight; Прямой/ стыковочный/ дальний рейс
+A direct/connecting/long-haul flight; Прямой/стыковочный/дальний рейс
 To suffer from Jet lag; Страдать от смены часовых поясов
 An aisle/window seat; место у прохода/окна
 A boarding pass; Посадочный талон 
@@ -100,12 +100,12 @@ To be peer viewed; Быть рецензируемым *
 Relevant, up-to-date concise speech; Уместная, актуальная лаконичная речь
 Panel discussions; Панельные обсуждения (дисскусии)
 Renowned experts in the domain; Известные специалисты в своей области
-Present the state-of-the-art; Представить современное состояние
+Present the state-of-the-art; Представить уровень развития
 Take place simultaneously; Происходят одновременно
 A distinguished guest; Уважаемый (почетный) гость 
 Findings; Выводы
 To fight poverty; Бороться с бедностью 
-To be transparent about sth; Быть прозрачным в отношении чего - либо
+To be transparent about smt; Быть прозрачным в отношении чего-либо
 To promote democracy; Продвигать демократию 
 Networking; общение
 I’m pleased to be applying for the position of; Я рад подать заявку на должность 
@@ -115,16 +115,16 @@ I have a wealth of experience in; Я имею богатый опыт в
 Conduct a research; Провести исследование 
 Compile written reports and analyses of a finding; Составлять писменные отчеты и анализировать находки
 To hone interview, research, and writing skills; Отточить (улучшить навык) интервью, ислледование, навыки письма
-A (6,500)-word thesis; Тезис на 6500 слов
+A 6500-word thesis; Тезис на 6500 слов
 Require extensive time management and collaboration efforts; Требуют широкой оптимизации времени и совместную работу
 Highlights from one’s relevant experiences; Основное из релевантного опыта
 What draws me most to (Company); Что меня больше всего привлекает в (компании)
 I can lend some expertise to (a field); Я могу поделиться опытом (в области)
 At your earliest convenience; При первой возможности
-Please reach me by email at [Email Address] or by phone at [Phone Number]; Пожалуйста, свяжитесь со мной по эмейлу или телефону
+Please reach me by email or by phone; Пожалуйста свяжитесь со мной по эмейлу или телефону
 To apply for a position online; Подать заявку на вакансию онлайн (в реальном времени)
 To offer a full-time post; Предлагать должность на полную ставку
-To do a (one)-year apprenticeship with a company; Пройти годичную стажировку в компании
+To do a one-year apprenticeship with a company; Пройти годичную стажировку в компании
 To be short-listed; Быть "на карандаше"
 To mess up an interview; Испортить интервью 
 I am writing in response to; Я пишу в ответ на
@@ -135,19 +135,19 @@ I possess the relevant experience; У меня есть соответствую
 I gained an invaluable experience; Я получил бесценный опыт
 On top of that; Более того
 An independent, motivated worker; Независимый, мотивированый работник
-To be able to act independently and as part of a team; Иметь возможность действовать самостоятельно (независимо) / как часть группы
+To be able to act independently and as part of a team; Иметь возможность действовать самостоятельно и как часть группы
 I enjoy new challenges; Мне нравяться новые вызовы
 To provide references; прилагать характеристики с прошлой работы
 To whom it may concern; Для предъявления по месту требования
 A warm-up question; Вопрос-разминка
 Poor time management skills; Плохое умение расчитывать время
 To portray as a weakness; Описывать как слабость 
-Requirement and expectations; Требования и ожидания
+Requirements and expectations; Требования и ожидания
 To deflect; Отклонить 
-Break your chances; Упустить шанс
+Break your chances; Упустить свой шанс
 Salary on offer; Предлагаемая заработная плата
 The rule of thumb; практический способ
-To tackle; Справиться с чем-то 
+To tackle; Справиться
 What you will contribute to the company; Что вы принесете компании
 To keep costs down; Уменьшить затраты
 An average remuneration; Среднее вознаграждение
@@ -166,7 +166,7 @@ To thrive in an urban environment; Процветать в городской с
 Badly depopulated; Сильно обезлюдили
 To offer a broad spectrum of smt; Предлагать широкий спектр чего-либо
 An idyllic life; Идиллическая (беззаботная) жизнь
-To eat up (time/money);  Съесть (время / деньги)
+To eat up (time/money);  Съедать (время/деньги)
 Competitive nature; Соревновательный характер
 Urban drift; Городской дрифт
 The green belt; Зеленый пояс
