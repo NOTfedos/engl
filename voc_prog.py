@@ -1,6 +1,6 @@
 from random import randint, sample
 
-f = open("vocab_dict_tr.txt", "r", encoding="utf-8")
+f = open("data/vocab_dict_tr.txt", "r", encoding="utf-8")
 
 words = dict()
 rest = dict()
