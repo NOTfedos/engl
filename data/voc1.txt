@@ -5,7 +5,7 @@ Entry; Статья
 Expand; Расширять
 Clue; Ключ
 Approach; Метод
-Conserned; Заинтересованный
+Concerned; Заинтересованный
 Govern; Управлять
 Evolve; Развиваться
 Contemporary; Современный (сегодняшний)
@@ -16,3 +16,23 @@ Significance; Значимость
 Similarly; Аналогично
 Advances; Достижения
 Underlie; Лежать в основе
+Obtain; Получать
+Particular; Особенный, отдельный
+Refer to; Ссылаться на
+To be referred to as; Называться
+Carry out; Проводить
+Approach; Подход, метод
+Specimen; Пробный экземпляр, образец
+Validity; Достоверность
+Occur; Происходить, случаться
+Gather; Собирать, накапливать
+Reach a conclusion; Прийти к выводу
+Approach a problem; Решать задачу
+Breakthrough; Прорыв
+Aid; Помогать
+As a whole; В целом
+Reasoning; Рассуждение
+Deduce; Выводить (формулу)
+Inference; Вывод, заключение
+Assessment; Оценка
+Deliver a paper; Делать доклад
