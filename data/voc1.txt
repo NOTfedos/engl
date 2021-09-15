@@ -36,3 +36,9 @@ Deduce; Выводить (формулу)
 Inference; Вывод, заключение
 Assessment; Оценка
 Deliver a paper; Делать доклад
+Exclamation; Восклицание
+Evaporate; Испаряться
+Vivid; Яркий
+Claret; Красное вино
+Consciousness; Сознание
+convenient; удобный
